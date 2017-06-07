@@ -1,1 +1,2 @@
 # metadata_visualization
+刚开始准备用nodejs写后台，写一个音乐源数据可视化的项目，但是时间紧迫，只写到了静态文件服务器
